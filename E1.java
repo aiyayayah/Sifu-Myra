@@ -56,8 +56,6 @@ public class E1 {
                 System.out.println("Input value must be between 1 and 20. Exiting...");
                 break;
             }
-            fshdsfh
-            gvygvhbknkm
 
             // Draw square
             drawSquare(size);
@@ -90,5 +88,5 @@ public class E1 {
         System.out.println();
     }
 }
-//yujgh
+
 
